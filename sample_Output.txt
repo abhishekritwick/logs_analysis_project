@@ -1,0 +1,40 @@
+vagrant@vagrant:/vagrant$ python newsdata_analysis.py
+
+1. Most popular articles
+2. Most popular authors
+3. Error prone days
+4. Exit
+
+Enter your choice : 1
+Articles				Views
+Candidate is jerk, alleges rival 	338647 views
+Bears love berries, alleges bear 	253801 views
+Bad things gone, say good people 	170098 views
+
+1. Most popular articles
+2. Most popular authors
+3. Error prone days
+4. Exit
+
+Enter your choice : 2
+Authors				Views
+Ursula La Multa 		507594 views
+Rudolf von Treppenwitz 		423457 views
+Anonymous Contributor 		170098 views
+
+1. Most popular articles
+2. Most popular authors
+3. Error prone days
+4. Exit
+
+Enter your choice : 3
+Percentage	Date
+2.26 		2016-07-17
+
+1. Most popular articles
+2. Most popular authors
+3. Error prone days
+4. Exit
+
+Enter your choice : 4
+Thank You for the analysis!
